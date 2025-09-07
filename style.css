@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  line-height: 1.6;
+}
+#question {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+#options {
+  list-style: none;
+  padding: 0;
+}
+#options li {
+  margin-bottom: 8px;
+}
+.hidden {
+  display: none;
+}
+#result {
+  margin-top: 20px;
+  font-size: 1.2em;
+  font-weight: bold;
+}
